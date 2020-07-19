@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.sample.api</groupId>
 	<artifactId>sample-api-mvn</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sample-api-mvn</name>
 	<description>Demo project for Spring Boot</description>
